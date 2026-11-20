@@ -1,0 +1,7 @@
+{
+  "appId": "com.example.hikari",
+  "appName": "光と鏡のパズル",
+  "webDir": "www",
+  "backgroundColor": "#0b0908",
+  "android": { "allowMixedContent": false }
+}

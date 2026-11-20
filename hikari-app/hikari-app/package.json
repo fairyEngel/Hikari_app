@@ -1,0 +1,10 @@
+{
+  "name": "hikari-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node build.js",
+    "sync": "node build.js && npx cap sync android && node patch-android.js",
+    "open": "npx cap open android"
+  }
+}
